@@ -37,3 +37,7 @@ Suggestions and pull requests are welcome. Describe the situation a proposed imp
 ## About Ataraxy Developers
 
 We build websites, applications, and AI automation. Explore our work at [ataraxydevelopers.com](https://ataraxydevelopers.com) or [discuss a project](https://ataraxydevelopers.com/contact/).
+
+## License
+
+MIT. You may reuse and adapt these resources under the terms in [LICENSE](LICENSE).
